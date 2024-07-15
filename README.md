@@ -1,14 +1,11 @@
-
-# Hi, I'm Jonathan Dupuis!
-A 21yr old passionate engineer student and software dev enthusiast exploring the realms of technology.
-
 # Personal Website Portfolio
+A personal portfolio website serves as a digital showcase of an individual's skills, accomplishments, and experiences. For my personal portfolio
 I Integrated backend functionality with a semi-existing UI design, customized the UI to accommodate additional components/functionality.
-Also first website portfolio I coded!
+
 - Jonathan Dupuis 
 ## Authors
-- [@Jay-Dupuis](https://www.github.com/Jay-Dupuis)
-- [@jay.dupuis_](https://www.instagram.com/jay.dupuis_/)
+- [@Jay-Dupuis](https://www.github.com/Jay-Kimani)
+- [@jay.dupuis_](https://www.instagram.com/jay.kimani_/)
 - [@jonathan-kimani-dupuis](https://www.linkedin.com/in/jonathan-kimani-dupuis/)
 
 ## Acknowledgements
