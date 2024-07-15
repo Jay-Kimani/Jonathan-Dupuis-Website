@@ -4,7 +4,6 @@ I Integrated backend functionality with a semi-existing UI design, customized th
 
 ## Authors
 - [@jay-kimani](https://www.github.com/Jay-Kimani)
-- [@jay.kimani_](https://www.instagram.com/jay.kimani_/)
 - [@jonathan-kimani-dupuis](https://www.linkedin.com/in/jonathan-kimani-dupuis/)
 
 ## Acknowledgements
